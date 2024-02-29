@@ -22,7 +22,7 @@ cellranger count --id=BRCA5 \
                   --localcores=8 \
                   --localmem=32
 ```
-(This code is ext)
+This code is extracted from my experiment. You need to change the arguments for your own gene files.
 You can view this website https://www.10xgenomics.com/support/software/cell-ranger/latest/analysis/running-pipelines/cr-gex-count for more details of the arguments.
 
 ## Output files
