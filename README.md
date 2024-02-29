@@ -1,7 +1,9 @@
 # Cellranger
 
 ## Download Cellranger
-Firstly, we need to download Cellranger from the website: https://www.10xgenomics.com/support/software/cell-ranger/latest/tutorials/cr-tutorial-in. Then, add it to your $PATH
+Firstly, we need to download Cellranger from the website: https://www.10xgenomics.com/support/software/cell-ranger/latest/tutorials/cr-tutorial-in. 
+
+Then, add it to your $PATH
 ```export PATH=/n/data1/hms/dbmi/park/serena/yard/apps/cellranger-7.1.0:$PATH```.
 
 ## (Optional) Bamtofastq
