@@ -48,5 +48,5 @@ Pipestance completed successfully!
 yyyy-mm-dd hh:mm:ss Shutting down.
 Saving pipestance info to "tiny/tiny.mri.tgz"
 ```
-(This code is extracted from website, not from my experiment)
+This code is extracted from website, not from my experiment. I used the web_summary to check for gene data quality. I used barcode matrices for further processing.
 
